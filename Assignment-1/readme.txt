@@ -13,7 +13,7 @@ epochs, intial weight vectors.
 Note:
 1. Run all the cells in order from top to bottom to produce the correct results. 
 2. Please note that the weight w0, is the bais term for the entire implementation.
-
+3. The Notebook was converted using an open source converter hence, the indentation is messed up.
 
 Submission details:
 Reg No: 18MCMT28 (M.tech CS)
