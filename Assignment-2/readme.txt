@@ -32,7 +32,6 @@ The output of tree command:
 .
 ├── Assignment-2_Part_1.ipynb
 ├── Assignment-2_Part_2.ipynb
-├── Feature_selection.html
 ├── Feature_selection.ipynb
 ├── MNIST
 │   ├── t10k-images-idx3-ubyte
