@@ -29,3 +29,20 @@ Reports are in the reports folder.
 
 The output of tree command:
 
+.
+├── Assignment-2_Part_1.ipynb
+├── Assignment-2_Part_2.ipynb
+├── Feature_selection.html
+├── Feature_selection.ipynb
+├── MNIST
+│   ├── t10k-images-idx3-ubyte
+│   ├── t10k-labels-idx1-ubyte
+│   ├── train-images-idx3-ubyte
+│   └── train-labels-idx1-ubyte
+├── readme.txt
+└── Reports
+    ├── Feature_selection.pdf
+    ├── Part1.pdf
+    └── Part2.pdf
+
+2 directories, 12 files
