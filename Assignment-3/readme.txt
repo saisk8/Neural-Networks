@@ -16,7 +16,9 @@ Libraries used:
 Reports: The immutable files are Part-1.pdf and Part-2.pdf
 
 The output of tree command:
+
 .
+├── 18MCMT28_Assignment-3.zip
 ├── Assignment-3_18MCMT28_Part-1.ipynb
 ├── Assignment-3_18MCMT28_Part-2.ipynb
 ├── Data
@@ -30,8 +32,6 @@ The output of tree command:
 │       └── wine-white.csv
 ├── Part-1.pdf
 ├── Part-2.pdf
-├── report.txt
-├── wine-red.csv
-└── wine-white.csv
+└── readme.txt
 
-3 directories, 13 files
+3 directories, 12 files
